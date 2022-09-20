@@ -4,7 +4,7 @@ Css'e başlangıç.
 
 # Patika
 
-css[Patika]mız. (https://www.patika.dev/tr)
+CSS [Patika]mız. (https://www.patika.dev/tr)
 
 # Patika.dev
 
