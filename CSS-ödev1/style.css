@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+h2 {
+  text-align: center;
+  color: brown;
+}
+
+.H4 {
+  text-align: center;
+  color: tan;
+}
+
+nav {
+  text-align: center;
+  word-spacing: 10px;
+}
+
+.items {
+  text-align: center;
+  list-style-position: inside;
+}
