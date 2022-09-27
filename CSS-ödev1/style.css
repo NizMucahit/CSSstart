@@ -22,3 +22,24 @@ nav {
   text-align: center;
   list-style-position: inside;
 }
+
+li:nth-child(2n-1) {
+  color: orange;
+}
+
+a {
+  color: orange;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  position: relative;
+  top: 5px;
+}
+
+li:first-child {
+  color: red;
+}
