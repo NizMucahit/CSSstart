@@ -12,5 +12,5 @@ CSS [Patika](https://www.patika.dev/tr)mız.
 
 [Github Profilim](https://github.com/NizMucahit)
 
-#
-![Screenshot](![Screenshot](/CSS-%C3%96dev2/img/google1996.jpg))
+# Google
+![Screenshot](/CSS-Ödev2/img/google1996.jpg)
